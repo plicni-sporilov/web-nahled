@@ -17,7 +17,7 @@ Zadání pro webmastera (Claude Doc, rev 356) je přepsané jako pracovní podkl
 ## Co zbývá
 
 - Poslat týmu odkaz na náhled; připomínky zapracovat sem a souběžně do zadání pro webmastera, pak zadání předat webmasterovi.
-- Propagační video: nahrát na YouTube kanál centra a místo rámečku na úvodní stránce vložit přehrávač.
+- Propagační video: v náhledu zůstává rámeček. Způsob vložení na ostrý web navrhne webmaster (YouTube kanál centrum nemá a nezakládá), dostane originál přes OneDrive.
 
 ## Kde je co
 
